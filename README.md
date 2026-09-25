@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravi;3rd+Year+CSE+Student;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=+I'm+Ravi;3rd+Year+CSE+Student;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 
@@ -30,7 +30,6 @@ Data Science, Web Technologies, and Mobile Development.
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
